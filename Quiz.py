@@ -4,7 +4,7 @@ class Question :
         self.prompt = prompt
         self.answer = answer
 
-# type your questions along some options        
+# type your questions along with some options        
 question_prompts = [
     "\nHow many premier league matches did United win under SAF ?\n(a) 571/810\n(b) 528/810\n(c) 562/810\n\n",
     "\nHow many goals did Cristiano Ronaldo score for United ?\n(a) 118\n(b) 134\n(c) 84\n\n",
